@@ -1,0 +1,1 @@
+ C:\\projects\\FaceSearch\\faceapp\\.dart_tool\\flutter_build\\2b0810a9bceac9be9c46b5a6d14ba26b\\native_assets.yaml: 

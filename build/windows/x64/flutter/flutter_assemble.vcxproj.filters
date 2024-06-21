@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\projects\FaceSearch\faceapp\build\windows\x64\CMakeFiles\f0886305f700dca03437608fc3e16350\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\projects\FaceSearch\faceapp\build\windows\x64\CMakeFiles\bbfcef8264b2ec71b08cbc0d88586be4\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\projects\FaceSearch\faceapp\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\projects\FaceSearch\faceapp\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3A8D39DD-2C55-3ECC-AB24-B40F22BF7E8B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
